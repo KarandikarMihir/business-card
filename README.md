@@ -1,7 +1,7 @@
 # Usage
 
 ```
-npx mihir
+npx mihirk
 ```
 
 Mihir Karandikar

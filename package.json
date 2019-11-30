@@ -1,10 +1,10 @@
 {
-  "name": "mihir",
-  "version": "1.0.1",
+  "name": "mihirk",
+  "version": "1.0.0",
   "description": "Mihir Karandikar (@KarandikarMihir): Business Card",
   "main": "/bin/card.js",
   "bin": {
-    "mihir": "./bin/card.js"
+    "mihirk": "./bin/card.js"
   },
   "repository": {
     "type": "git",
@@ -25,18 +25,14 @@
   "author": "Mihir Karandikar <karandikar.mihir@outlook.com> (http://mihir.life)",
   "license": "MIT",
   "files": [
-    "bin/card.js",
-    "bin/output"
+    "bin/card.js"
   ],
-  "devDependencies": {
-    "boxen": "4.1.0",
-    "chalk": "3.0.0"
-  },
+  "devDependencies": {},
   "bugs": {
     "url": "https://github.com/KarandikarMihir/business-card/issues"
   },
-  "dependencies": {},
-  "publishConfig": {
-    "registry": "https://npm.registry.github.com/"
+  "dependencies": {
+    "boxen": "4.1.0",
+    "chalk": "3.0.0"
   }
 }
