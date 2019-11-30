@@ -1,6 +1,6 @@
 {
   "name": "mihirk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mihir Karandikar (@KarandikarMihir): Business Card",
   "main": "/bin/card.js",
   "bin": {
