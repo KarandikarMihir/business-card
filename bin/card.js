@@ -18,7 +18,7 @@ const options = {
 const data = {
   name: chalk.white('Mihir Karandikar /'),
   handle: chalk.cyan('KarandikarMihir'),
-  work: chalk.white('Associate Tech Lead at Harbinger'),
+  work: chalk.white('Frontend Engineer at Aera Technology'),
   twitter: chalk.cyan('https://twitter.com/KarandikarMihir'),
   github: chalk.cyan('https://github.com/KarandikarMihir'),
   linkedin: chalk.cyan('https://linkedin.com/in/karandikarmihir/'),

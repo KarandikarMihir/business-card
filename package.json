@@ -1,6 +1,6 @@
 {
   "name": "mihirk",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Mihir Karandikar (@KarandikarMihir): Business Card",
   "main": "/bin/card.js",
   "bin": {
@@ -12,7 +12,7 @@
   },
   "homepage": "https://mihir.life",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "show": "node ./bin/card.js"
   },
   "keywords": [
     "card",
